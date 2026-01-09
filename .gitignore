@@ -15,4 +15,4 @@ examples/bundle.js
 #/Utilities.js
 #/Utilities.js.map
 /__tests__/*
-/pivottable.css
+#/pivottable.css
